@@ -5,7 +5,7 @@ This project is mainly based on the open source project [hp2xx](http://gnuwin32.
 
 ## My interests of hp2xx
 Here,I mainly focus on the function that **hp2xx can interpret the HPGL files to 
-CNC nc files.**
+CNC *.nc files.**
 
 ## Compile
 I compiled hp2xx on my **Windows 10 system** using the **Microsoft Visual C++ 6.0** compiler(a very small utility although it is outdated.)
@@ -17,7 +17,7 @@ The simple explanation of above options:
 
 “**--mode (-m) string**”
 	
-	After the '-m' option follows the detailed mode(such as **dxt**,**cad**,etc).We want to get a *nc file and we specify the mode to "**nc**".
+	After the '-m' option follows the detailed mode(such as **dxt**,**cad**,etc).We want to get a *.nc file and we specify the mode to "**nc**".
  
 "**--outfile (-f) string**"
 
@@ -29,6 +29,6 @@ If you specify the parameters in the compiler.The screenshot following shows the
 
 ![](http://i.imgur.com/CTadDXy.png)
 
-After execute the hp2xx.exe with the above parameters,you can get the CNC ***nc** file with the same name of the original ***plt** file.
+After execute the hp2xx.exe with the above parameters,you can get the CNC ***.nc** file with the same name of the original ***plt** file.
 
 
