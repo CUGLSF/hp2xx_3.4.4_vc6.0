@@ -29,4 +29,6 @@ If you specify the parameters in the compiler.The screenshot following shows the
 
 ![](http://i.imgur.com/CTadDXy.png)
 
+After execute the hp2xx.exe with the above parameters,you can get the CNC *nc file with the same name of the original plt file.
+
 
