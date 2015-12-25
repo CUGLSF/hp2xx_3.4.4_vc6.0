@@ -1,0 +1,137 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: hp2xx - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\cendom\AppData\Local\Temp\RSPB0CC.tmp" with contents
+[
+/nologo /MLd /W4 /Gm /GX /ZI /Od /D "_DEBUG" /D "WIN32" /D "_CONSOLE" /D "_MBCS" /D "_NO_VCL" /D "NORINT" /D "EMF" /Fp"Debug/hp2xx.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\bresnham.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\murphy.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\chardraw.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\clip.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\fillpoly.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\getopt.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\getopt1.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\hp2xx.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\hpgl.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\lindef.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\no_prev.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\pendef.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\picbuf.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\std_main.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_emf.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_eps.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_escp2.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_fig.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_ilbm.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_img.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pac.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pbm.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pcl.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pcx.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pic.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_rgip.c"
+"C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_vec.c"
+]
+Creating command line "cl.exe @C:\Users\cendom\AppData\Local\Temp\RSPB0CC.tmp" 
+Creating temporary file "C:\Users\cendom\AppData\Local\Temp\RSPB0CD.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib comdlg32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/hp2xx.pdb" /debug /machine:I386 /out:"Debug/hp2xx.exe" /pdbtype:sept 
+".\Debug\bresnham.obj"
+".\Debug\murphy.obj"
+".\Debug\chardraw.obj"
+".\Debug\clip.obj"
+".\Debug\fillpoly.obj"
+".\Debug\getopt.obj"
+".\Debug\getopt1.obj"
+".\Debug\hp2xx.obj"
+".\Debug\hpgl.obj"
+".\Debug\lindef.obj"
+".\Debug\no_prev.obj"
+".\Debug\pendef.obj"
+".\Debug\picbuf.obj"
+".\Debug\std_main.obj"
+".\Debug\to_emf.obj"
+".\Debug\to_eps.obj"
+".\Debug\to_escp2.obj"
+".\Debug\to_fig.obj"
+".\Debug\to_ilbm.obj"
+".\Debug\to_img.obj"
+".\Debug\to_pac.obj"
+".\Debug\to_pbm.obj"
+".\Debug\to_pcl.obj"
+".\Debug\to_pcx.obj"
+".\Debug\to_pic.obj"
+".\Debug\to_rgip.obj"
+".\Debug\to_vec.obj"
+]
+Creating command line "link.exe @C:\Users\cendom\AppData\Local\Temp\RSPB0CD.tmp"
+<h3>Output Window</h3>
+Compiling...
+bresnham.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\bresnham.c': No such file or directory
+murphy.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\murphy.c': No such file or directory
+chardraw.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\chardraw.c': No such file or directory
+clip.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\clip.c': No such file or directory
+fillpoly.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\fillpoly.c': No such file or directory
+getopt.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\getopt.c': No such file or directory
+getopt1.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\getopt1.c': No such file or directory
+hp2xx.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\hp2xx.c': No such file or directory
+hpgl.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\hpgl.c': No such file or directory
+lindef.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\lindef.c': No such file or directory
+no_prev.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\no_prev.c': No such file or directory
+pendef.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\pendef.c': No such file or directory
+picbuf.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\picbuf.c': No such file or directory
+std_main.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\std_main.c': No such file or directory
+to_emf.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_emf.c': No such file or directory
+to_eps.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_eps.c': No such file or directory
+to_escp2.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_escp2.c': No such file or directory
+to_fig.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_fig.c': No such file or directory
+to_ilbm.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_ilbm.c': No such file or directory
+to_img.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_img.c': No such file or directory
+to_pac.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pac.c': No such file or directory
+to_pbm.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pbm.c': No such file or directory
+to_pcl.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pcl.c': No such file or directory
+to_pcx.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pcx.c': No such file or directory
+to_pic.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_pic.c': No such file or directory
+to_rgip.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_rgip.c': No such file or directory
+to_vec.c
+fatal error C1083: Cannot open source file: 'C:\Harddisk\E-disk\project\3d视觉打标-脱机打码\plt-hpgl-paser2\hp2xx-3.4.4\makes\visualc6.00\to_vec.c': No such file or directory
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+hp2xx.exe - 27 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

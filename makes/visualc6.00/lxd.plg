@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: lxd - Win32 Debug--------------------
+</h3>
+
+
+Microsoft (R) Program Maintenance Utility   Version 6.00.8168.0
+Copyright (C) Microsoft Corp 1988-1998. All rights reserved.
+
+"This makefile needs manual configuration! Edit it now!
+"After configuration, you may use the following commands:
+""
+"make all             Compile everything"
+"make check           Run a color application in preview mode"
+"make install-bin     Install the binary file"
+"make install-man     Install the manual page"
+"make install-info    Create and install the info file"
+"make install         Install everything"
+"make mostlyclean"
+"make clean"
+"make realclean"
+
+
+
+<h3>Results</h3>
+lxd.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

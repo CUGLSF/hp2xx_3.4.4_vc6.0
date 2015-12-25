@@ -1,0 +1,50 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: hp2xx - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\SCI9\AppData\Local\Temp\RSP62B4.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib comdlg32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/hp2xx.pdb" /debug /machine:I386 /out:"Debug/hp2xx.exe" /pdbtype:sept 
+".\Debug\bresnham.obj"
+".\Debug\chardraw.obj"
+".\Debug\clip.obj"
+".\Debug\fillpoly.obj"
+".\Debug\getopt.obj"
+".\Debug\getopt1.obj"
+".\Debug\hp2xx.obj"
+".\Debug\hpgl.obj"
+".\Debug\lindef.obj"
+".\Debug\murphy.obj"
+".\Debug\no_prev.obj"
+".\Debug\pendef.obj"
+".\Debug\picbuf.obj"
+".\Debug\std_main.obj"
+".\Debug\to_emf.obj"
+".\Debug\to_eps.obj"
+".\Debug\to_escp2.obj"
+".\Debug\to_fig.obj"
+".\Debug\to_ilbm.obj"
+".\Debug\to_img.obj"
+".\Debug\to_pac.obj"
+".\Debug\to_pbm.obj"
+".\Debug\to_pcl.obj"
+".\Debug\to_pcx.obj"
+".\Debug\to_pic.obj"
+".\Debug\to_rgip.obj"
+".\Debug\to_vec.obj"
+]
+Creating command line "link.exe @C:\Users\SCI9\AppData\Local\Temp\RSP62B4.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+hp2xx.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
